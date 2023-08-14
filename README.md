@@ -70,3 +70,5 @@ From this we can get to know the individual weights of each factor and make pred
 Exited is denoted by 1 and loyalty is denoted by 0.
 
 So features whose value tend to be near 0.5 dont have tht much of an importance in predicting customer loyalty, and as the value deviates more towards 0 or 1, it favours the corresponding status of loyalty or exit
+
+- __All project related documents like architecture of model, accuracy of model can be visualised through pictures under the folder Project_Pictures in the repository__
